@@ -1,0 +1,18 @@
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\CommerceApp.Entities\bin\Debug\netcoreapp2.2\CommerceApp.Entities.deps.json
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\CommerceApp.Entities\bin\Debug\netcoreapp2.2\CommerceApp.Entities.dll
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\CommerceApp.Entities\bin\Debug\netcoreapp2.2\CommerceApp.Entities.pdb
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\CommerceApp.Entities\obj\Debug\netcoreapp2.2\CommerceApp.Entities.csprojAssemblyReference.cache
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\CommerceApp.Entities\obj\Debug\netcoreapp2.2\CommerceApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\CommerceApp.Entities\obj\Debug\netcoreapp2.2\CommerceApp.Entities.AssemblyInfoInputs.cache
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\CommerceApp.Entities\obj\Debug\netcoreapp2.2\CommerceApp.Entities.AssemblyInfo.cs
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\CommerceApp.Entities\obj\Debug\netcoreapp2.2\CommerceApp.Entities.dll
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\CommerceApp.Entities\obj\Debug\netcoreapp2.2\CommerceApp.Entities.pdb
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp.Entities\bin\Debug\netcoreapp2.2\CommerceApp.Entities.deps.json
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp.Entities\bin\Debug\netcoreapp2.2\CommerceApp.Entities.dll
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp.Entities\bin\Debug\netcoreapp2.2\CommerceApp.Entities.pdb
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp.Entities\obj\Debug\netcoreapp2.2\CommerceApp.Entities.csprojAssemblyReference.cache
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp.Entities\obj\Debug\netcoreapp2.2\CommerceApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp.Entities\obj\Debug\netcoreapp2.2\CommerceApp.Entities.AssemblyInfoInputs.cache
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp.Entities\obj\Debug\netcoreapp2.2\CommerceApp.Entities.AssemblyInfo.cs
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp.Entities\obj\Debug\netcoreapp2.2\CommerceApp.Entities.dll
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp.Entities\obj\Debug\netcoreapp2.2\CommerceApp.Entities.pdb

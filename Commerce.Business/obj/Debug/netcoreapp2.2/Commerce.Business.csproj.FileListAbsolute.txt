@@ -1,0 +1,23 @@
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\Commerce.Business\bin\Debug\netcoreapp2.2\Commerce.Business.deps.json
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\Commerce.Business\bin\Debug\netcoreapp2.2\Commerce.Business.dll
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\Commerce.Business\bin\Debug\netcoreapp2.2\Commerce.Business.pdb
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\Commerce.Business\obj\Debug\netcoreapp2.2\Commerce.Business.csprojAssemblyReference.cache
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\Commerce.Business\obj\Debug\netcoreapp2.2\Commerce.Business.csproj.CoreCompileInputs.cache
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\Commerce.Business\obj\Debug\netcoreapp2.2\Commerce.Business.AssemblyInfoInputs.cache
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\Commerce.Business\obj\Debug\netcoreapp2.2\Commerce.Business.AssemblyInfo.cs
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\Commerce.Business\obj\Debug\netcoreapp2.2\Commerce.Business.dll
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\Commerce.Business\obj\Debug\netcoreapp2.2\Commerce.Business.pdb
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\Commerce.Business\bin\Debug\netcoreapp2.2\Commerce.Business.deps.json
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\Commerce.Business\bin\Debug\netcoreapp2.2\Commerce.Business.dll
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\Commerce.Business\bin\Debug\netcoreapp2.2\Commerce.Business.pdb
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\Commerce.Business\obj\Debug\netcoreapp2.2\Commerce.Business.csprojAssemblyReference.cache
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\Commerce.Business\obj\Debug\netcoreapp2.2\Commerce.Business.csproj.CoreCompileInputs.cache
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\Commerce.Business\obj\Debug\netcoreapp2.2\Commerce.Business.AssemblyInfoInputs.cache
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\Commerce.Business\obj\Debug\netcoreapp2.2\Commerce.Business.AssemblyInfo.cs
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\Commerce.Business\obj\Debug\netcoreapp2.2\Commerce.Business.dll
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\Commerce.Business\obj\Debug\netcoreapp2.2\Commerce.Business.pdb
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\Commerce.Business\bin\Debug\netcoreapp2.2\CommerceApp.DataAccess.dll
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\Commerce.Business\bin\Debug\netcoreapp2.2\CommerceApp.Entities.dll
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\Commerce.Business\bin\Debug\netcoreapp2.2\CommerceApp.DataAccess.pdb
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\Commerce.Business\bin\Debug\netcoreapp2.2\CommerceApp.Entities.pdb
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\Commerce.Business\obj\Debug\netcoreapp2.2\Commerce.Business.csproj.CopyComplete

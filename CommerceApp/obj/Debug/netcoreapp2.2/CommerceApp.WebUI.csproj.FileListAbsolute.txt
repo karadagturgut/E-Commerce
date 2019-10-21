@@ -1,0 +1,28 @@
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\CommerceApp\bin\Debug\netcoreapp2.2\CommerceApp.WebUI.deps.json
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\CommerceApp\bin\Debug\netcoreapp2.2\CommerceApp.WebUI.runtimeconfig.json
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\CommerceApp\bin\Debug\netcoreapp2.2\CommerceApp.WebUI.runtimeconfig.dev.json
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\CommerceApp\bin\Debug\netcoreapp2.2\CommerceApp.WebUI.dll
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\CommerceApp\bin\Debug\netcoreapp2.2\CommerceApp.WebUI.pdb
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\CommerceApp\obj\Debug\netcoreapp2.2\CommerceApp.WebUI.csprojAssemblyReference.cache
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\CommerceApp\obj\Debug\netcoreapp2.2\CommerceApp.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\CommerceApp\obj\Debug\netcoreapp2.2\CommerceApp.WebUI.RazorAssemblyInfo.cache
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\CommerceApp\obj\Debug\netcoreapp2.2\CommerceApp.WebUI.RazorAssemblyInfo.cs
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\CommerceApp\obj\Debug\netcoreapp2.2\CommerceApp.WebUI.AssemblyInfoInputs.cache
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\CommerceApp\obj\Debug\netcoreapp2.2\CommerceApp.WebUI.AssemblyInfo.cs
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\CommerceApp\obj\Debug\netcoreapp2.2\CommerceApp.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\CommerceApp\obj\Debug\netcoreapp2.2\CommerceApp.WebUI.dll
+C:\Users\selin büşra\Desktop\E-Commerce\CommerceApp\CommerceApp\obj\Debug\netcoreapp2.2\CommerceApp.WebUI.pdb
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp\bin\Debug\netcoreapp2.2\CommerceApp.WebUI.deps.json
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp\bin\Debug\netcoreapp2.2\CommerceApp.WebUI.runtimeconfig.json
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp\bin\Debug\netcoreapp2.2\CommerceApp.WebUI.runtimeconfig.dev.json
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp\bin\Debug\netcoreapp2.2\CommerceApp.WebUI.dll
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp\bin\Debug\netcoreapp2.2\CommerceApp.WebUI.pdb
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp\obj\Debug\netcoreapp2.2\CommerceApp.WebUI.csprojAssemblyReference.cache
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp\obj\Debug\netcoreapp2.2\CommerceApp.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp\obj\Debug\netcoreapp2.2\CommerceApp.WebUI.RazorAssemblyInfo.cache
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp\obj\Debug\netcoreapp2.2\CommerceApp.WebUI.RazorAssemblyInfo.cs
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp\obj\Debug\netcoreapp2.2\CommerceApp.WebUI.AssemblyInfoInputs.cache
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp\obj\Debug\netcoreapp2.2\CommerceApp.WebUI.AssemblyInfo.cs
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp\obj\Debug\netcoreapp2.2\CommerceApp.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp\obj\Debug\netcoreapp2.2\CommerceApp.WebUI.dll
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp\obj\Debug\netcoreapp2.2\CommerceApp.WebUI.pdb
