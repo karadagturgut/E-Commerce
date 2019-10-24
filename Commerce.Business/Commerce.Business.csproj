@@ -5,6 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.2.4" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\CommerceApp.DataAccess\CommerceApp.DataAccess.csproj" />
     <ProjectReference Include="..\CommerceApp.Entities\CommerceApp.Entities.csproj" />
   </ItemGroup>

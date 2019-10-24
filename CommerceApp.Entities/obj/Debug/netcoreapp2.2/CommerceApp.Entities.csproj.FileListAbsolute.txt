@@ -16,3 +16,5 @@ C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceA
 C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp.Entities\obj\Debug\netcoreapp2.2\CommerceApp.Entities.AssemblyInfo.cs
 C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp.Entities\obj\Debug\netcoreapp2.2\CommerceApp.Entities.dll
 C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp.Entities\obj\Debug\netcoreapp2.2\CommerceApp.Entities.pdb
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp.Entities\bin\Debug\netcoreapp2.2\CommerceApp.Entities.runtimeconfig.json
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp.Entities\bin\Debug\netcoreapp2.2\CommerceApp.Entities.runtimeconfig.dev.json

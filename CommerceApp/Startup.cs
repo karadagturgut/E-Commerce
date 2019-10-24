@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Commerce.Business.Abstract;
 using Commerce.Business.Concreate;
 using CommerceApp.DataAccess.Abstract;
+using CommerceApp.DataAccess.Concreate;
 using CommerceApp.DataAccess.Concreate.Memory;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -32,9 +33,12 @@ namespace CommerceApp
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+                SeedDatabase.Seed();
             }
             app.UseMvcWithDefaultRoute();
         
         }
+
+       
     }
 }

@@ -22,3 +22,5 @@ C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceA
 C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp.DataAccess\bin\Debug\netcoreapp2.2\CommerceApp.Entities.dll
 C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp.DataAccess\bin\Debug\netcoreapp2.2\CommerceApp.Entities.pdb
 C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp.DataAccess\obj\Debug\netcoreapp2.2\CommerceApp.DataAccess.csproj.CopyComplete
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp.DataAccess\bin\Debug\netcoreapp2.2\CommerceApp.DataAccess.runtimeconfig.json
+C:\Users\selin büşra\Desktop\Work In Progress\E-Commerce\CommerceApp\CommerceApp.DataAccess\bin\Debug\netcoreapp2.2\CommerceApp.DataAccess.runtimeconfig.dev.json
