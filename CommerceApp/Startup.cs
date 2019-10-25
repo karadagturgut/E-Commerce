@@ -6,7 +6,9 @@ using Commerce.Business.Abstract;
 using Commerce.Business.Concreate;
 using CommerceApp.DataAccess.Abstract;
 using CommerceApp.DataAccess.Concreate;
+using CommerceApp.DataAccess.Concreate.EfCore;
 using CommerceApp.DataAccess.Concreate.Memory;
+using CommerceApp.WebUI.Middlewares;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -21,7 +23,7 @@ namespace CommerceApp
         public void ConfigureServices(IServiceCollection services)
         {
 
-            services.AddScoped<IProductDal, MemoryProduct>();
+            services.AddScoped<IProductDal, EfCoreProductDal>();
             services.AddScoped<IProductService, ProductManager>();
 
             services.AddMvc().SetCompatibilityVersion(Microsoft.AspNetCore.Mvc.CompatibilityVersion.Version_2_2);
@@ -35,6 +37,9 @@ namespace CommerceApp
                 app.UseDeveloperExceptionPage();
                 SeedDatabase.Seed();
             }
+
+            app.UseStaticFiles();
+            app.CustomStaticFiles();
             app.UseMvcWithDefaultRoute();
         
         }
